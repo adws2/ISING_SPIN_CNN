@@ -1,7 +1,7 @@
 # Ising spin CNN
 
 ## 데이터
-X : 이징 스핀 이미지
+X : 이징 스핀 이미지 (batch X 64 X 64 X 1) - Single channel
 
 Y : 0 or 1 (phase)
 
